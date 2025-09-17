@@ -66,6 +66,37 @@
 
 ---
 
+---
+
+### 💬 AI Career Coach
+
+
+#### Interactive Career Guidance
+<img width="1874" height="891" alt="Screenshot 2025-09-17 231353" src="https://github.com/user-attachments/assets/ebb47429-72f1-4dde-b981-86987a8652e1" />
+
+
+*Personalized career coaching through AI-powered conversations*
+
+<img width="1920" height="916" alt="Screenshot 2025-09-17 223320" src="https://github.com/user-attachments/assets/d612e856-d211-4250-ae14-2b7df6fa4391" />
+
+
+*Chat interface with resume upload and analysis integration*
+
+<img width="1920" height="897" alt="Screenshot 2025-09-17 223337" src="https://github.com/user-attachments/assets/9b0c4d15-d388-40cb-afed-8488400620a4" />
+
+
+*Contextual career advice with industry-specific recommendations*
+
+<img width="1920" height="905" alt="Screenshot 2025-09-17 223143" src="https://github.com/user-attachments/assets/e626f957-3118-401d-a58b-7c6c8e415734" />
+
+
+---
+
+
+
+
+---
+
 ### 📝 Resume Builder
 
 #### Template Selection & Customization
@@ -103,7 +134,9 @@
 
 <img width="1920" height="900" alt="Screenshot 2025-09-17 222403" src="https://github.com/user-attachments/assets/9ce99e99-fb4f-4efa-ae29-6bb99333827b" />
 
-*Generated cover letter with customization options and tone adjustment*
+*Generated cover letter with customization options and history tracking*
+
+<img width="1871" height="900" alt="Screenshot 2025-09-17 231525" src="https://github.com/user-attachments/assets/c4bfcbf1-aa7f-402c-a523-abf959b4e251" />
 
 ---
 
@@ -127,24 +160,3 @@
 <img width="1883" height="909" alt="Screenshot 2025-09-17 223957" src="https://github.com/user-attachments/assets/2bf666a9-af92-40b7-8fe4-7c9a141b9066" />
 
 
----
-
-### 💬 AI Career Coach
-
-
-#### Interactive Career Guidance
-
-<img width="1920" height="916" alt="Screenshot 2025-09-17 223320" src="https://github.com/user-attachments/assets/d612e856-d211-4250-ae14-2b7df6fa4391" />
-
-*Personalized career coaching through AI-powered conversations*
-
-<img width="1920" height="897" alt="Screenshot 2025-09-17 223337" src="https://github.com/user-attachments/assets/9b0c4d15-d388-40cb-afed-8488400620a4" />
-
-
-*Chat interface with resume upload and analysis integration*
-
-<img width="1920" height="905" alt="Screenshot 2025-09-17 223143" src="https://github.com/user-attachments/assets/e626f957-3118-401d-a58b-7c6c8e415734" />
-
-*Contextual career advice with industry-specific recommendations*
-
----
