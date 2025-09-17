@@ -84,6 +84,7 @@ Here's a detailed production-ready architecture:
 - AI Framework: Langchain + Hugging Face (orchestration, model access)
 
 **Multi-Agent Coordination Strategy**:
+```
 ```python
 class AgentOrchestrator:
     def __init__(self):
@@ -206,7 +207,7 @@ class ResumeAnalyzer:
 
 This implementation provides a robust foundation for resume analysis with proper error handling, performance optimization through vectorization, and modular design for easy testing and maintenance.
 ```
-
+```
 ### Prompt 4: RAG System Implementation
 **AI Assistant**: Claude 3.5 Sonnet
 
