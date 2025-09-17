@@ -58,8 +58,6 @@ Previously, these tasks required hours of manual research, formatting, and custo
 - Visual feedback on changes and improvements
 
 ### ⚙️ Operational Support
-- Batch processing for multiple resume formats
-- Template scheduling and management
 - User session management and history tracking
 
 ## 🛠️ Tech Stack & Architecture
