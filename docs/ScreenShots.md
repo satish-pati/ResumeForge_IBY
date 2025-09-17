@@ -75,27 +75,28 @@
 
 ---
 
-
 ### 💬 AI Career Coach
 
 
 #### Interactive Career Guidance
+
+
 <img width="1874" height="891" alt="Screenshot 2025-09-17 231353" src="https://github.com/user-attachments/assets/ebb47429-72f1-4dde-b981-86987a8652e1" />
 
 
 *Personalized career coaching through AI-powered conversations*
+<img width="1909" height="896" alt="Screenshot 2025-09-17 235032" src="https://github.com/user-attachments/assets/bae98aa8-17b1-4137-9255-30df4682f81b" />
 
-<img width="1920" height="916" alt="Screenshot 2025-09-17 223320" src="https://github.com/user-attachments/assets/d612e856-d211-4250-ae14-2b7df6fa4391" />
 
 
 *Chat interface with resume upload and analysis integration*
 
-<img width="1920" height="897" alt="Screenshot 2025-09-17 223337" src="https://github.com/user-attachments/assets/9b0c4d15-d388-40cb-afed-8488400620a4" />
+<img width="1902" height="901" alt="Screenshot 2025-09-17 235003" src="https://github.com/user-attachments/assets/528dd779-c37d-4258-b6b9-4319e678c435" />
 
 
 *Contextual career advice with industry-specific recommendations*
 
-<img width="1920" height="905" alt="Screenshot 2025-09-17 223143" src="https://github.com/user-attachments/assets/e626f957-3118-401d-a58b-7c6c8e415734" />
+<img width="1920" height="906" alt="Screenshot 2025-09-17 234950" src="https://github.com/user-attachments/assets/bcf8ce96-6876-4cab-b5df-76e5f7f3f51d" />
 
 
 ---
