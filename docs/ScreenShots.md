@@ -1,4 +1,3 @@
-<img width="1859" height="852" alt="Screenshot 2025-09-17 231632" src="https://github.com/user-attachments/assets/df7f809a-35f5-42a8-ae96-534062fa5b97" />
 # 🚀 ResumeForge - AI-Driven Full-Stack Resume Optimizer
 ---
 
