@@ -21,7 +21,6 @@
 
 *Step-by-step registration with verification*
 
----
 
 ### 🏠 Dashboard & Home
 
@@ -64,9 +63,6 @@
 <img width="1920" height="913" alt="Screenshot 2025-09-17 222707" src="https://github.com/user-attachments/assets/2c868e44-d3a6-4637-8f78-f558586fab11" />
 
 
----
-
----
 
 ### 💬 AI Career Coach
 
@@ -91,9 +87,6 @@
 
 
 ---
-
-
-
 
 ---
 
