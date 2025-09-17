@@ -16,8 +16,8 @@
 #### Registration Page
 *Streamlined user registration process*
 
-![Register Page 1](<img width="1920" height="905" alt="Screenshot 2025-09-17 221524" src="https://github.com/user-attachments/assets/c0668cec-f99d-424e-816b-561b3fadf92e" />
-)
+<img width="1920" height="905" alt="Screenshot 2025-09-17 221524" src="https://github.com/user-attachments/assets/c0668cec-f99d-424e-816b-561b3fadf92e" />
+
 *Step-by-step registration with verification*
 
 ---
@@ -27,12 +27,12 @@
 #### Main Dashboard
 *Centralized hub for all AI-powered tools*
 
-![Home Dashboard 1](<img width="1920" height="915" alt="Screenshot 2025-09-17 221314" src="https://github.com/user-attachments/assets/97401d89-7985-4e0b-bb0a-29cf2ea51c69" />
-)
+<img width="1920" height="915" alt="Screenshot 2025-09-17 221314" src="https://github.com/user-attachments/assets/97401d89-7985-4e0b-bb0a-29cf2ea51c69" />
+
 *Overview of all features with quick access buttons and user progress*
 
-![Home Dashboard 2](<img width="1920" height="870" alt="Screenshot 2025-09-17 221337" src="https://github.com/user-attachments/assets/14299a2c-15b1-455b-8b8d-ce3a1ff7e9a9" />
-)
+<img width="1920" height="870" alt="Screenshot 2025-09-17 221337" src="https://github.com/user-attachments/assets/14299a2c-15b1-455b-8b8d-ce3a1ff7e9a9" />
+
 *Personalized recommendations and recent activity feed*
 
 
@@ -42,12 +42,11 @@
 #### ATS Compatibility Scanner
 *Comprehensive ATS parsing and compatibility analysis*
 
-![ATS Analysis 1](<img width="1920" height="875" alt="Screenshot 2025-09-17 222424" src="https://github.com/user-attachments/assets/a33a61be-4f32-4d0a-a7d6-e5d2bc3ee32d" />
-)
+<img width="1920" height="875" alt="Screenshot 2025-09-17 222424" src="https://github.com/user-attachments/assets/a33a61be-4f32-4d0a-a7d6-e5d2bc3ee32d" />
+
 *Real-time ATS compatibility score with detailed breakdown*
 
-![ATS Analysis 2](<img width="1920" height="885" alt="Screenshot 2025-09-17 222649" src="https://github.com/user-attachments/assets/caed33ba-58be-408e-829d-5fe822b3633b" />
-)
+<img width="1920" height="885" alt="Screenshot 2025-09-17 222649" src="https://github.com/user-attachments/assets/caed33ba-58be-408e-829d-5fe822b3633b" />
 *Section-wise analysis with specific improvement recommendations*
 
 ---
