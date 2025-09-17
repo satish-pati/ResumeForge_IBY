@@ -9,6 +9,7 @@
 **Email:** cs23b038@iittp.ac.in
 
 ---
+For other Deliverables please refer to the /docs directory in this repository.
 
 ## 🚀 Project Overview
 
