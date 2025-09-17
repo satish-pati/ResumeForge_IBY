@@ -68,6 +68,10 @@
 
 <img width="1920" height="913" alt="Screenshot 2025-09-17 222707" src="https://github.com/user-attachments/assets/2c868e44-d3a6-4637-8f78-f558586fab11" />
 
+*History of generated analysis of resumes*
+
+<img width="1896" height="875" alt="Screenshot 2025-09-17 231602" src="https://github.com/user-attachments/assets/2af3986c-b821-40a6-803f-5188297a6b66" />
+
 
 ---
 
