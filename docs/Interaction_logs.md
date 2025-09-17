@@ -121,15 +121,15 @@ class AgentOrchestrator:
 
 This architecture ensures scalability through stateless design and enables complex AI workflows while maintaining performance.
 ```
-
+```
 ## 3. Implementation Phase
 
 ### Prompt 3: Resume Analysis Implementation
 **AI Assistant**: Claude 3.5 Sonnet
 
 **Prompt:**
-
 ```
+
 I need to implement the resume analysis component. Help me create:
 1. Resume parsing logic for PDF .
 2. ATS compatibility scoring algorithm
