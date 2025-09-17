@@ -1,0 +1,42 @@
+/* Resume Template Styles */
+@media print {
+  body {
+    -webkit-print-color-adjust: exact; /* Ensures colors are printed */
+    print-color-adjust: exact;
+  }
+  
+  .resume-container { 
+    page-break-inside: avoid; /* Prevents the container from splitting across pages */
+    break-inside: avoid;
+  }
+  
+  .print-page {
+    width: 100%;
+    height: auto;
+    overflow: hidden; /* Avoid extra blank space */
+  }
+
+  /* Remove margins that may cause blank areas */
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Hide unnecessary elements */
+  .btn, .print-btn {
+    display: none !important;
+  }
+}
+
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .resume-container {
+      flex-direction: column;
+    }
+  
+    .left-column {
+      border-right: none;
+      border-bottom: 1px solid #ddd;
+    }
+  }
+  

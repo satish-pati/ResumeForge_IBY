@@ -1,0 +1,85 @@
+/* Overall container */
+.resume-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .resume-header .links a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  
+  /* Header Section */
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .contact-info {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Section Styling */
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+  
+  .section-content {
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  /* Skills Section */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .skills-grid h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .skills-grid p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Divider */
+  hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+  }
+  

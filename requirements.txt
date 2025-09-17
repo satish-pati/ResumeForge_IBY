@@ -1,0 +1,12 @@
+flask
+werkzeug
+langchain
+PyPDF2
+python-dotenv
+langchain-community 
+langchain-groq
+sentencetransformers
+flaskcors
+
+
+-e .

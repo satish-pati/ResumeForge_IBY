@@ -1,0 +1,146 @@
+/* Resume Container */
+.resume-container {
+    display: flex;
+    max-width: 900px;
+    margin: auto;
+    background-color: #ffffff;
+    color: #000;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Left Column */
+  .left-column {
+    flex: 1;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-right: 1px solid #ddd;
+  }
+  
+  /* Right Column */
+  .right-column {
+    flex: 2;
+    padding: 20px;
+  }
+  
+  /* Header */
+  .left-column h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+  }
+  
+  /* Contact Info */
+  .left-column p {
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  /* Section Titles */
+  .left-column h2,
+  .right-column h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
+  
+  /* Subheadings */
+  .left-column h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  /* Links */
+  .links ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .links li {
+    margin-bottom: 5px;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 14px;
+    transition: color 0.3s;
+  }
+  
+  .links a:hover {
+    color: #0056b3;
+  }
+  
+  /* Summary Section */
+  .summary {
+    margin-bottom: 20px;
+  }
+  
+  /* Experience and Education Items */
+  .experience-item,
+  .education-item {
+    margin-bottom: 20px;
+  }
+  
+  .experience-item h3,
+  .education-item h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .experience-item p,
+  .education-item p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Projects Section */
+  .projects p {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .projects strong {
+    font-weight: bold;
+  }
+  
+  /* General Styling for Text */
+  p {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  /* Margins and Spacing */
+  .skills p,
+  .projects p {
+    margin: 0 0 10px;
+  }
+  
+  .skills h3 {
+    margin-top: 10px;
+  }
+  
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .resume-container {
+      flex-direction: column;
+    }
+  
+    .left-column {
+      border-right: none;
+      border-bottom: 1px solid #ddd;
+    }
+  }
+  

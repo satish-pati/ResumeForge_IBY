@@ -1,0 +1,99 @@
+/* General Layout */
+.resume-template {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 900px;
+  }
+  
+  /* Header */
+  .resume-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1a3e81;
+    color: white;
+    padding: 15px;
+  }
+  
+  .resume-header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .resume-header .contact {
+    font-size: 14px;
+  }
+  
+  .resume-header a {
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .resume-header a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Section Titles */
+  .section h2 {
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+  
+  /* Content Sections */
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .experience-item,
+  .education-item {
+    margin-bottom: 15px;
+  }
+  
+  .job-title,
+  .degree {
+    font-style: italic;
+    color: #555;
+  }
+  
+  /* Skills */
+  .skills {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .skills-category {
+    width: 45%;
+  }
+  
+  .skills-category h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  @media print {
+    /* Ensure the header background color is applied in print */
+    .resume-header {
+      -webkit-print-color-adjust: exact; /* Chrome, Edge */
+      print-color-adjust: exact;        /* Firefox */
+      background-color: #1a3e81;       /* Ensure the color matches */
+      color: white;
+    }
+  
+    /* Optional: Remove unnecessary margins for better print alignment */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+  
+    /* Prevent page breaks inside important sections */
+    .section {
+      page-break-inside: avoid;
+    }
+  }
+  

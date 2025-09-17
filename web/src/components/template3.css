@@ -1,0 +1,139 @@
+/* Resume Template Styles */
+.resume-template {
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.5;
+    width: 100%; /* Ensure it fits within page width */
+    box-sizing: border-box;
+  }
+  
+  .resume-header {
+    text-align: left; /* Ensure everything in the header is left-aligned */
+  }
+  
+  .resume-header h1 {
+    margin: 0; /* Remove any extra margin for alignment consistency */
+    font-size: 35px; /* Adjust as needed */
+    text-align: left;
+  }
+  
+  .resume-header p {
+    margin: 0; /* Prevent extra spacing */
+    font-size: 18px; /* Adjust for readability */
+    text-align: left;
+
+  }
+  
+  .resume-header .links {
+    margin-top: 5px; /* Add spacing between links and the rest of the content */
+    text-decoration: none; /* Remove underline for cleaner design */
+    color: black;  /* Set link color */
+    margin-right: 10px;
+    text-align: left;
+    /* Add spacing between links 
+
+  }
+  
+  .resume-header .links a {
+    */
+  }
+  .skills-container {
+    display: flex;
+    justify-content: space-between; /* Aligns technical left and soft right */
+    align-items: start; /* Aligns items to the top */
+    gap: 2rem; /* Adds spacing */
+  }
+  
+  .technical-skills {
+    text-align: left; /* Ensures text is aligned left */
+    flex: 1; /* Takes up available space */
+  }
+  
+  .soft-skills {
+    text-align: left; /* Align text left */
+    flex: 1; /* Takes up equal space */
+  }
+  
+  
+  @media print {
+    .bg-blue-950 {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+      background-color: #172554 !important; /* Equivalent to Tailwind bg-blue-950 */
+      color: white !important;
+    }
+    .resume-template {
+      font-size: 10px; 
+
+    }
+    
+    
+    
+    
+    .resume-header h1 {
+      font-size: 16px; /* Adjust header font size for print */
+      text-align: left;
+
+    }
+  
+    h2 {
+      font-size: 14px; /* Adjust h2 font size for print */
+    }
+  
+    .resume-header {
+      text-align: left; /* Ensure header remains left-aligned in print */
+
+    }
+  
+    .resume-header .links a {
+      color: black; /* Use black for print-friendly links */
+      text-align: left;
+
+    }
+  }
+  
+  
+  .skills-list {
+    margin-top: 0; /* Remove any margin that could be creating space */
+  }
+  
+  
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+  
+  .skills-list {
+    display: flex;
+    justify-content: space-between;
+  }
+  /*
+  @media print {
+     Ensure the header background color is applied in print 
+    .resume-header {
+      -webkit-print-color-adjust: exact; 
+      print-color-adjust: exact;      
+      background-color: #1a3e81;      
+      color: white;
+    }
+  
+    
+    body {
+      margin: 0;
+      padding: 0;
+    }
+  
+    .section {
+      page-break-inside: avoid;
+    }
+  }
+  */
+  

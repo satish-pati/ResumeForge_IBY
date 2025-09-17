@@ -1,0 +1,17 @@
+@media print {
+    body {
+      margin: 0;
+      padding: 0;    
+      -webkit-print-color-adjust: exact; /* Ensures colors are printed */
+      print-color-adjust: exact;
+      
+    }
+    .print-container {
+      width: 21cm;
+      height: 29.7cm;
+      max-width: 100%;
+      max-height: 100%;
+      page-break-after: auto;
+    }
+  }
+  

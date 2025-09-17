@@ -1,0 +1,74 @@
+.template4-container {
+    display: flex;
+    font-family: Arial, sans-serif;
+  }
+  
+  .sidebar {
+    width: 25%;
+    background-color: #12233b;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .sidebar-name {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .contact,
+  .skills {
+    margin-top: 20px;
+  }
+  
+  .contact h2,
+  .skills h2 {
+    font-size: 18px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 5px;
+  }
+  
+  .contact p,
+  .skills ul {
+    margin: 5px 0;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills ul li {
+    margin: 5px 0;
+  }
+  
+  .main-content {
+    width: 75%;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #12233b;
+    padding-bottom: 5px;
+  }
+  
+  .experience-item,
+  .education-item {
+    margin-bottom: 10px;
+  }
+  .experience-item h3,
+  .education-item h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .experience-item p,
+  .education-item p {
+    font-size: 14px;
+  }
+  

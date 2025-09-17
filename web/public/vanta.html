@@ -1,0 +1,39 @@
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanta Waves Effect</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.waves.min.js"></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        #vanta-bg {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div id="vanta-bg"></div>
+    <script>
+        VANTA.WAVES({
+            el: "#vanta-bg",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 0.5,
+            scaleMobile: 1.00,
+            color: 0x1F2937,
+            waveHeight: 10,  // Reduce wave height for smaller waves
+    waveSpeed: 1.5,  // Increase speed for faster movement
+    zoom: 0.8        // Adjust zoom level to make waves more detailed
+        });
+    </script>
+</body>
+</html>
