@@ -128,6 +128,7 @@ This architecture ensures scalability through stateless design and enables compl
 **AI Assistant**: Claude 3.5 Sonnet
 
 **Prompt:**
+
 ```
 I need to implement the resume analysis component. Help me create:
 1. Resume parsing logic for PDF .
@@ -137,6 +138,7 @@ I need to implement the resume analysis component. Help me create:
 5. Improvement recommendations engine
 
 The code should be production-ready with error handling and be optimized for performance.
+
 ```
 
 **AI Response:**
