@@ -1,8 +1,11 @@
 # ResumeForge - AI-Driven Full-Stack Resume Optimizer
 
 **Name:** P.Satish
+
 **University:** IIT Tiruapti  
+
 **Department:** CSE 
+
 **Email:** cs23b038@iittp.ac.in
 
 ---
