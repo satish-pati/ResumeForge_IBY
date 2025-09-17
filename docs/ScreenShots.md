@@ -13,6 +13,8 @@
 *Clean and professional login interface with social authentication options*
 *Responsive design with password recovery and remember me functionality*
 
+---
+
 #### Registration Page
 
 *Streamlined user registration process*
@@ -20,6 +22,9 @@
 <img width="1920" height="905" alt="Screenshot 2025-09-17 221524" src="https://github.com/user-attachments/assets/c0668cec-f99d-424e-816b-561b3fadf92e" />
 
 *Step-by-step registration with verification*
+
+
+---
 
 
 ### 🏠 Dashboard & Home
@@ -39,6 +44,7 @@
 
 *Personalized recommendations and recent activity feed*
 
+---
 
 
 ### 📊 ATS Analysis System
@@ -90,7 +96,6 @@
 
 ---
 
----
 
 ### 📝 Resume Builder
 
@@ -116,6 +121,7 @@
 
 
 ---
+
 
 ### ✉️ AI Cover Letter Generator
 
@@ -153,5 +159,21 @@
 *Real-time feedback and response evaluation with improvement suggestions*
 
 <img width="1883" height="909" alt="Screenshot 2025-09-17 223957" src="https://github.com/user-attachments/assets/2bf666a9-af92-40b7-8fe4-7c9a141b9066" />
+
+---
+
+###  🎯 Interview Questions generator 
+
+*AI-powered interview questions tailroed to job description and user resume*
+
+<img width="1920" height="893" alt="Screenshot 2025-09-17 223439" src="https://github.com/user-attachments/assets/761acc20-13d2-46b6-bd3c-2d4e459ff25d" />
+
+*Interview question generation based on resume  and job analysis*
+
+<img width="1881" height="872" alt="Screenshot 2025-09-17 223602" src="https://github.com/user-attachments/assets/da01fe36-1912-4542-a46e-c1733ffc4e0f" />
+
+*HR question generation based on resume and job Description*
+
+<img width="1879" height="903" alt="Screenshot 2025-09-17 223545" src="https://github.com/user-attachments/assets/10dbe54c-4cd2-4d7a-bfde-5b73c72a53e5" />
 
 
