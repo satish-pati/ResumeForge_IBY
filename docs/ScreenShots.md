@@ -1,46 +1,4 @@
-# 🚀 EliteResumeAI - AI-Driven Full-Stack Resume Optimizer
-
-
-EliteResumeAI is a cutting-edge, full-stack web application that leverages **Natural Language Processing (NLP)**, **Generative AI**, and **Deep Learning** to revolutionize the job application process. From resume optimization to interview preparation, we've got you covered with AI-powered tools that give you the competitive edge.
-
-## 🌟 Key Features
-
-### 🤖 AI-Driven Resume Optimization
-- Advanced NLP and Deep Learning algorithms enhance your resume content
-- Intelligent keyword suggestions based on job descriptions and industry standards
-- Smart formatting improvements for maximum visual impact
-- Industry-specific optimization for various career fields
-
-### 📊 ATS (Applicant Tracking System) Analysis
-- Comprehensive ATS compatibility scanning
-- Real-time parsing analysis with modern hiring software simulation
-- Actionable feedback with detailed improvement suggestions
-- **ATS Compatibility Score** with breakdown and recommendations
-
-### 📝 Professional Resume Builder
-- 20+ modern, customizable templates
-- Drag-and-drop interface for easy customization
-- Section-by-section guidance and suggestions
-- Real-time preview with professional formatting
-
-### ✉️ AI-Generated Cover Letters (RAG-Powered)
-- Personalized cover letters using **Retrieval-Augmented Generation (RAG)**
-- Embedding-based content retrieval with transformer models
-- **FAISS vector similarity search** for relevant content matching
-- Industry-specific tone and style adaptation
-
-### 🎯 Mock Interview & Question Generation
-- Realistic interview simulations based on your resume
-- Role-specific and industry-specific question generation
-- AI-powered feedback on responses
-- Interview preparation analytics and improvement tracking
-
-### 💬 Interactive AI Career Coach
-- Upload your resume and chat with our AI career coach
-- Get personalized advice: *"How can I improve my resume for data science roles?"*
-- Industry-specific guidance: *"Is this resume good for a software engineering internship?"*
-- **LangChain-powered** conversation with context-aware responses
-
+# 🚀 ResumeForge - AI-Driven Full-Stack Resume Optimizer
 ---
 
 ## 📸 Application Screenshots
@@ -50,8 +8,8 @@ EliteResumeAI is a cutting-edge, full-stack web application that leverages **Nat
 #### Login Page
 *Secure login with modern UI/UX design*
 
-![Login Page 1](<img width="1920" height="909" alt="Screenshot 2025-09-17 221447" src="https://github.com/user-attachments/assets/c24f0d91-9974-4983-8217-baf0306d62d5" />
-)
+<img width="1920" height="909" alt="Screenshot 2025-09-17 221447" src="https://github.com/user-attachments/assets/c24f0d91-9974-4983-8217-baf0306d62d5" />
+
 *Clean and professional login interface with social authentication options*
 *Responsive design with password recovery and remember me functionality*
 
