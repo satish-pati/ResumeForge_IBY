@@ -1,3 +1,4 @@
+<img width="1859" height="852" alt="Screenshot 2025-09-17 231632" src="https://github.com/user-attachments/assets/df7f809a-35f5-42a8-ae96-534062fa5b97" />
 # 🚀 ResumeForge - AI-Driven Full-Stack Resume Optimizer
 ---
 
@@ -164,6 +165,10 @@
 
 <img width="1883" height="909" alt="Screenshot 2025-09-17 223957" src="https://github.com/user-attachments/assets/2bf666a9-af92-40b7-8fe4-7c9a141b9066" />
 
+*History of Mock interviews*
+<img width="1890" height="908" alt="Screenshot 2025-09-17 231707" src="https://github.com/user-attachments/assets/6e8b13d3-f308-4ccc-b48d-03a8e871a4d7" />
+
+
 ---
 
 ###  🎯 Interview Questions generator 
@@ -180,4 +185,7 @@
 
 <img width="1879" height="903" alt="Screenshot 2025-09-17 223545" src="https://github.com/user-attachments/assets/10dbe54c-4cd2-4d7a-bfde-5b73c72a53e5" />
 
+*History of generated Interview Questions*
+
+<img width="1890" height="908" alt="Screenshot 2025-09-17 231707" src="https://github.com/user-attachments/assets/9090428f-d3b3-4789-a70c-50887d04ba63" />
 
