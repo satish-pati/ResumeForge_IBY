@@ -333,8 +333,8 @@ Previously, these tasks required hours of manual research, formatting, and custo
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/satish-pati/EliteResume
-cd eliteresumeai
+git clone https://github.com/satish-pati/ResumeForge 
+cd ResumeForge 
 ```
 
 2. **Frontend Setup**
