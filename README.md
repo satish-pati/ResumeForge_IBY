@@ -44,7 +44,6 @@ Previously, these tasks required hours of manual research, formatting, and custo
 - **Resume Analyzer Agent**: Specialized in content analysis and ATS compatibility
 - **Content Generator Agent**: Handles cover letter and interview question generation
 - **Career Coach Agent**: Provides interactive consultation and guidance
-- **Optimization Planner Agent**: Creates structured improvement plans
 
 ### 🔌 External Integrations
 - **RAG (Retrieval-Augmented Generation)**: For personalized cover letter generation
@@ -75,7 +74,6 @@ Previously, these tasks required hours of manual research, formatting, and custo
 - **Hugging Face Transformers**: Text embeddings and analysis
 - **Langchain**: LLM orchestration and agent coordination
 - **FAISS**: Vector similarity search and retrieval
-- **Custom NLP Models**: Resume parsing and optimization algorithms
 
 ### Database & Storage
 - **MongoDB**: Document-based storage for user data, resumes, and generated content
